@@ -12,3 +12,7 @@ void input(){
 float luas_lingkaran(int c){
      return phi*c*c;
 }
+
+void output(){
+      cout << " hasil luas lingkaran ; " << luas_lingkaran(jarijari) << endl; 
+}
