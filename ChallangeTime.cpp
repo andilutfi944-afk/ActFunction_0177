@@ -8,3 +8,7 @@ void input(){
     cout << "masukan jari-jari lingkaran : ";
     cin >> jarijari;
 }
+
+float luas_lingkaran(int c){
+
+}
