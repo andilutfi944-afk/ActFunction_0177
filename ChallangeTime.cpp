@@ -10,5 +10,5 @@ void input(){
 }
 
 float luas_lingkaran(int c){
-
+     return phi*c*c;
 }
