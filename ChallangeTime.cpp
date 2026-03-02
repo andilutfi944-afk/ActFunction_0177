@@ -1,3 +1,4 @@
+//library
 #include <iostream>
 using namespace std;
 
@@ -21,3 +22,4 @@ int main(){
     input();
     output();
 }
+//selesai
