@@ -16,3 +16,7 @@ float luas_lingkaran(int c){
 void output(){
       cout << " hasil luas lingkaran ; " << luas_lingkaran(jarijari) << endl; 
 }
+
+int main(){
+    input();
+}
